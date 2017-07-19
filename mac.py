@@ -1,11 +1,11 @@
+
+
 #!/usr/bin/python
 # coding: utf-8
+print "Made by Mo."
 
 import urllib
 import sys
-import time 
-print "Made by Mo."
-time.sleep(1)
 
 if len(sys.argv) == 2:
 	mac = sys.argv[1]

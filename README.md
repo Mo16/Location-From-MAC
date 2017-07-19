@@ -1,4 +1,7 @@
 # maclook
-Trace people's MAC Adresses
+Trace people's location with their  MAC Adresses
 
-Do ./mac [MAC ADDRESS]
+
+First chmod it by doing:
+chmod +x mac.py
+Then do ./mac [MAC ADDRESS]

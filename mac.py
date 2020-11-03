@@ -1,7 +1,3 @@
-#!/usr/bin/python
-#coding: utf-8
-#Author Mo.
-
 import urllib
 import sys
 if len(sys.argv) == 2:
